@@ -57,6 +57,7 @@ const IndexPage = () => {
                       </div>
               </div>
           </div>
+
           <div className="section-12 wf-section">
               <div className="v3-main w-container">
 
@@ -104,16 +105,16 @@ const IndexPage = () => {
           <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
-                      <div className="v3-book-demo-title">startup 3</div>
+                      <div className="v3-book-demo-title">Anantshree Vehicles Pvt. Ltd.</div>
                       <div className="text-block-65">
-                        Line1<br/><br/>
-                        Line 2<br/><br/>
-                        Line 3
-                      </div>
-                      
-                      
+                        <b>Address: </b>109, Ram ratan patel angar,sec-1, Pithampur, Madhya Pradesh 454775 <br/>
+                        <b>Website: </b>http://www.shreevehicles.in <br/>
+                        <b>Product: </b>B11 <br/>
+                        <b>Established: </b>2018 <br/>
+                      </div>                      
+                      <br/>
+                      <img src="/images/startup-product/anantshree-vehicles-pvt-ltd.jpeg" loading="lazy" alt="" className="image-72"/>
                   </div>
-                  <img src="/images/621e1a7a97ac8f6ee5a55696_sitting.svg" loading="lazy" alt="" className="image-72"/>
               </div>
 
           </div>
@@ -121,20 +122,18 @@ const IndexPage = () => {
           <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
-                      <div className="v3-book-demo-title">startup 4</div>
+                      <div className="v3-book-demo-title">Quantic Cloud Technologies Pvt. Ltd.</div>
                       <div className="text-block-65">
-                        Line1<br/><br/>
-                        Line 2<br/><br/>
-                        Line 3
+                        <b>Address: </b>2nd Floor, Winway World Offices, Plot No. B-7, Scheme No. PU-4 Commercial, Vijay Nagar, Indore 452010 <br/>
+                        <b>Website: </b>https://quantic.co.in<br/>
+                        <b>Product: </b>DD Zone<br/>
+                        <b>Product Website: </b>https://ddzone.xyz<br/>
+                        <b>Established: </b>2019 <br/>
                       </div>
-                      
-
                   </div>
                   <img src="/images/621e1a7a97ac8f6ee5a55696_sitting.svg" loading="lazy" alt="" className="image-72"/>
               </div>
           </div>
-
-        
 
 
       </main>
