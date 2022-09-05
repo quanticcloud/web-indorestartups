@@ -58,59 +58,21 @@ const IndexPage = () => {
               </div>
           </div>
 
-          <div className="section-12 wf-section">
-              <div className="v3-main w-container">
-
-                  <div className="v3-benefit-row">
-                      <div className="div-block-67">
-                          <h2 className="v3-benefit-heading">startup 1</h2>
-                          <a
-                              data-event-category="Home Benefits" data-event-action="Click" data-event-label="Master your finances"
-                              href="" className="v3-link w-inline-block">
-                              <div className="v3-link-text">Master your finances without finance expertise</div>
-                              <img src="/images/6203f94ff8a2e8101731d4c0_arrow_forward.svg" loading="lazy" alt="Arrow icon"
-                                   className="v3-benefit-link-arrow"/>
-                          </a>
-                      </div>
-                      <div className="div-block-90">
-                          <img src="/images/6229dde93391b5ea0ae9de8d_hats.svg" loading="lazy" data-w-id="71287bbe-10c2-ccff-15dd-a466ad9a6161" alt="" className="v3-1-benefit-img-1"/>
-                          <img src="/images/6214f37bbec7b23bce0ad03b_opportunities-back.svg" loading="lazy" alt="Opportunities backdrop" className="image-61"/>
-                      </div>
-                  </div>
-
-
-                  <div className="v3-benefit-row">
-                      <div className="div-block-90">
-                          <img src="/images/6214d762760c3dfcc47e3c0e_drone.svg" loading="lazy" data-w-id="b1ee4da0-6177-00ac-9762-5de9c7a6f914" alt="Drone carrying cash across borders" className="v3-benefit-img-2"/>
-                          <img src="/images/6214d761fa850257971b09a4_drone-clouds.svg" loading="lazy" alt="Clouds" className="image-62"/>
-                      </div>
-                      <div className="div-block-67">
-                          <h2 className="v3-benefit-heading">startup 2</h2>
-                          <a
-                              data-event-action="Click" data-event-category="Home Benefits" data-event-label="Save on transfer fees"
-                              href="" className="v3-link w-inline-block">
-                              <div className="v3-link-text">desc</div>
-                              <img src="/images/6203f94ff8a2e8101731d4c0_arrow_forward.svg" loading="lazy" alt="Arrow icon"
-                                   className="v3-benefit-link-arrow"/>
-                          </a>
-                      </div>
-                  </div>
-
-                 
-
-
-              </div>
-          </div>
-
-          <div className="section-15 wf-section">
+          <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">Anantshree Vehicles Pvt. Ltd.</div>
                       <div className="text-block-65">
                         <b>Address: </b>109, Ram ratan patel angar,sec-1, Pithampur, Madhya Pradesh 454775 <br/>
-                        <b>Website: </b>http://www.shreevehicles.in <br/>
-                        <b>Product: </b>B11 <br/>
-                        <b>Established: </b>2018 <br/>
+                        <b>Product Website: </b>http://www.shreevehicles.in <br/>
+                        <b>Established: </b>2022 <br/>
+                        <b>Startup India Portal Certificate No. </b>DIPP97025 <br/>                        
+                        <b>Product: </b>Electric Loader Two Wheeler<br/>
+
+                        <b>What we can do for our fellow founders: </b><br/>
+                        <ul>
+                          <li>Electric two wheeler Manufacturers, Fabrication, CNC Machining, From work</li>
+                        </ul>
                       </div>                      
                       <br/>
                       <div>
@@ -121,6 +83,37 @@ const IndexPage = () => {
 
           </div>
 
+
+          <div className="section-15 wf-section">
+              <div className="v3-1-book-demo-container w-container">
+                  <div className="div-block-81">
+                      <div className="v3-book-demo-title">LegitAutomotive</div>
+                      <div className="text-block-65">
+                        <b>Address: </b>7, Asha Nagar, Indore Madhya Pradesh, 452018 <br/>
+                        <b>Product Website: </b>http://www.legitautomotive.in <br/>
+                        <b>Established: </b>2021 <br/>
+                        <b>Startup India Portal Certificate No. </b>DIPP105241 <br/>
+                        <b>Product: </b>Dhayawat - Electric Three Wheeler Cargo <br/>
+
+                        <b>What we can do for our fellow founders: </b><br/>
+                        <ul>
+                          <li>Manufacturing and sales e3w</li>
+                          <li>Design, Vehicle Assembly, Project Management, Part Devlopment</li>
+                        </ul>
+
+                      </div>                      
+                      <br/>
+                      <div>
+                        <iframe class="mbr-background-video"
+                        frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        title="Legit Automotive" width="640" height="360" src="https://www.youtube.com/embed/TaYwQfjRKS0?autoplay=1&amp;mute=1&amp;controls=0&amp;enablejsapi=1&amp;allowfullscreen=true&amp;iv_load_policy=3&amp;modestbranding=1&amp;origin=http%3A%2F%2Flegitautomotive.in&amp;rel=0&amp;mode=transparent&amp;showinfo=0&amp;html5=1&amp;version=3&amp;playerapiid=iframe_YTP_1624972482514&amp;widgetid=2"></iframe>
+                      </div>
+                  </div>
+              </div>
+
+          </div>
+
+
           <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
@@ -128,9 +121,34 @@ const IndexPage = () => {
                       <div className="text-block-65">
                         <b>Address: </b>2nd Floor, Winway World Offices, Plot No. B-7, Scheme No. PU-4 Commercial, Vijay Nagar, Indore 452010 <br/>
                         <b>Website: </b>https://quantic.co.in<br/>
-                        <b>Product: </b>DD Zone<br/>
                         <b>Product Website: </b>https://ddzone.xyz<br/>
                         <b>Established: </b>2019 <br/>
+                        <b>Startup India Portal Certificate No. </b>DIPP59772 <br/>
+                        <b>Product: </b><br/>
+<u>1. DD Digital (Merchant/Business super app) </u><br/>
+It offers management of In-store and online eCommerce, Till and Cash Drawer Management, Employee, eReceipt, Reservation, Order, Invoice, Donation, Membership, and Subscription. Payment collection and disbursement both online and offline. 
+<br/>
+Accessed from: Web(browser), Android Native App, iOS Native app, and Voice bot.<br/><br/>
+
+
+<u>2. DD Zone (Consumer supper app) </u><br/>
+This platform offer merchants' customer to discover business and their services. Manage digital assets owned by the end users.
+<br/>
+Accessed from: web(browser), iOS Native app,<br/> 
+
+Coming soon: Android Native App, Voice Assistant<br/><br/> 
+
+
+<b>What we can do for our fellow founders: </b><br/>
+<ul>
+  <li>Currently, the product is deployed to the USA and it is in the growth stage, by end of November 2022, we have a plan to launch the same in India and it will also be open for third-party businesses to extend and customize and can launch their services globally asap with their branding and personalization options. 
+  <br/>
+  It's a global product but we only support data localization to India, North America, Canada, Europe, Singapore, and Australia
+  </li>
+  <li>Free payment collection with selected funding sources. (only in India)</li>
+</ul>
+<br/>
+
                       </div>
                   </div>
                   <img src="/images/621e1a7a97ac8f6ee5a55696_sitting.svg" loading="lazy" alt="" className="image-72"/>
