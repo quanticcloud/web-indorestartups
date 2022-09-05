@@ -113,7 +113,9 @@ const IndexPage = () => {
                         <b>Established: </b>2018 <br/>
                       </div>                      
                       <br/>
-                      <img src="/images/startup-product/anantshree-vehicles-pvt-ltd.jpeg" loading="lazy" alt="" className="image-72"/>
+                      <div>
+                        <img src="/images/startup-product/anantshree-vehicles-pvt-ltd.jpeg" loading="lazy" alt="" className="image-72"/>
+                      </div>
                   </div>
               </div>
 
