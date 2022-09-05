@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "webapp": "quantic"
+  },
+  "targets": {
+    "quantic": {
+      "hosting": {
+        "webapp": [
+          "indorestartups"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+# https://docs.google.com/document/d/1nW5K22uRAIe42V4imQFSiHuEJMoYdzeo7AO2rHNZOuM
+steps:
+  - name: node:16.15.0
+    entrypoint: npm
+    args: [ 'install' ]
+  - name: node:16.15.0
+    entrypoint: npm
+    args: [ 'run', 'build']
+  - name: 'gcr.io/$PROJECT_ID/firebase'
+    args: [ 'deploy', '--project', '$PROJECT_ID']
+    secretEnv: ['FIREBASE_DEPLOY_TOKEN']
+secrets:
+  - kmsKeyName: 'projects/quantic/locations/global/keyRings/keyring_global/cryptoKeys/key_deploy'
+    secretEnv:
+      FIREBASE_DEPLOY_TOKEN: 'CiQA9TkQqPMzWyyQUqg8n8fNwSa9H95E+QO3k8w6zSimyp1dcOgSkAEAnf+ZPeLUPuqIf5xpnu4Wm7OHK0o3O1ntShjJ+NpG8Z/7LJ26tTSpPkR2MnK/2kEJBpkbimlaUhcYpFpYVDmtJemlzlet6VyN2bRfJtnQ7lt1XrMuBM1HkR+ocJnK4jCSond/oBCwFuPEGmBsC9x3jdl+Y1luj8odfOywLzWEr9Jvlt6EDh+1492f3QYlA7o='
