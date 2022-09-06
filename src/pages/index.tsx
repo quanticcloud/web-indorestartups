@@ -58,31 +58,67 @@ const IndexPage = () => {
               </div>
           </div>
 
+
           <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">Anantshree Vehicles Pvt. Ltd.</div>
                       <div className="text-block-65">
-                        <b>Address: </b>109, Ram ratan patel angar,sec-1, Pithampur, Madhya Pradesh 454775 <br/>
-                        <b>Product Website: </b>http://www.shreevehicles.in <br/>
-                        <b>Established: </b>2022 <br/>
-                        <b>Startup India Portal Certificate No. </b>DIPP97025 <br/>                        
-                        <b>Product: </b>Electric Loader Two Wheeler<br/>
+                          <b>Address: </b>109, Ram ratan patel angar,sec-1, Pithampur, Madhya Pradesh 454775 <br/>
+                          <b>Product Website: </b><a href="http://www.shreevehicles.in">http://www.shreevehicles.in</a> <br/>
+                          <b>Established: </b>2022 <br/>
+                          <b>Startup India Portal Certificate No. </b>DIPP97025 <br/>
+                          <b>Product: </b>Electric Loader Two Wheeler<br/>
 
-                        <b>What we can do for our fellow founders: </b><br/>
-                        <ul>
-                          <li>Electric two wheeler Manufacturers, Fabrication, CNC Machining, From work</li>
-                        </ul>
-                      </div>                      
+                          <b>What we can do for our fellow founders: </b><br/>
+                          <ul>
+                              <li>Electric two wheeler Manufacturers, Fabrication, CNC Machining, From work</li>
+                          </ul>
+                      </div>
                       <br/>
                       <div>
-                        <img src="/images/startup-product/anantshree-vehicles-pvt-ltd.jpeg" loading="lazy" alt="" className="image-72"/>
+                          <img src="/images/startup-product/anantshree-vehicles-pvt-ltd.jpeg" loading="lazy" alt="" className="image-72"/>
                       </div>
                   </div>
               </div>
-
           </div>
 
+          <div className="section-15 wf-section">
+              <div className="v3-1-book-demo-container w-container">
+                  <div className="div-block-81">
+                      <div className="v3-book-demo-title">Garveish Herbaceuticals Pvt. Ltd.</div>
+                      <div className="text-block-65">
+                          <b>Product Website: </b><a href="www.garveishherbals.com">www.garveishherbals.com</a><br/>
+                          <b>Established: </b>2017 <br/>
+                          <b>Startup India Portal Certificate No. </b>DIPP10775 <br/>
+                          <b>Product: </b>Kesh kala Hair Oil, Garvilact<br/>
+                          Herbal Ayurvedic Extracts API's and formulations<br/>
+                          <b>Area of expertise: </b><br/>
+                          <ul>
+                              <li>Marketing and manufacturing Herbal products</li>
+                          </ul>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <div className="section-14 wf-section">
+              <div className="v3-1-book-demo-container w-container">
+                  <div className="div-block-81">
+                      <div className="v3-book-demo-title">GodAura Devices Pvt. Ltd.</div>
+                      <div className="text-block-65">
+                          <b>Product Website: </b><a href="https://www.godaura.org">https://www.godaura.org</a> <br/>
+                          <b>Established: </b>2022 <br/>
+                          <b>Product: </b>GodAura 'GURU'- Stress relief device<br/>
+                          insomnia cure, low focus, hyper tension relief and meditation device<br/>
+                          <b>Area of expertise/What we can do for our fellow founders: </b><br/>
+                          <ul>
+                              <li>Brain, health, mental health, reiki</li>
+                          </ul>
+                      </div>
+                  </div>
+              </div>
+          </div>
 
           <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
@@ -90,7 +126,7 @@ const IndexPage = () => {
                       <div className="v3-book-demo-title">LegitAutomotive</div>
                       <div className="text-block-65">
                         <b>Address: </b>7, Asha Nagar, Indore Madhya Pradesh, 452018 <br/>
-                        <b>Product Website: </b>http://www.legitautomotive.in <br/>
+                        <b>Product Website: </b><a href="http://www.legitautomotive.in">http://www.legitautomotive.in</a> <br/>
                         <b>Established: </b>2021 <br/>
                         <b>Startup India Portal Certificate No. </b>DIPP105241 <br/>
                         <b>Product: </b>Dhayawat - Electric Three Wheeler Cargo <br/>
@@ -104,24 +140,34 @@ const IndexPage = () => {
                       </div>                      
                       <br/>
                       <div>
-                        <iframe class="mbr-background-video"
-                        frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        <iframe frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         title="Legit Automotive" width="640" height="360" src="https://www.youtube.com/embed/TaYwQfjRKS0?autoplay=1&amp;mute=1&amp;controls=0&amp;enablejsapi=1&amp;allowfullscreen=true&amp;iv_load_policy=3&amp;modestbranding=1&amp;origin=http%3A%2F%2Flegitautomotive.in&amp;rel=0&amp;mode=transparent&amp;showinfo=0&amp;html5=1&amp;version=3&amp;playerapiid=iframe_YTP_1624972482514&amp;widgetid=2"></iframe>
                       </div>
                   </div>
               </div>
+          </div>
 
+          <div className="section-14 wf-section">
+              <div className="v3-1-book-demo-container w-container">
+                  <div className="div-block-81">
+                      <div className="v3-book-demo-title">Rameshwaram H2O World Tech (OPC) Pvt. Ltd.</div>
+                      <div className="text-block-65">
+                          <b>Established: </b>2021 <br/>
+                          <b>Product: </b>Zero waste water alkaline water purifier<br/>
+                      </div>
+                  </div>
+              </div>
           </div>
 
 
-          <div className="section-14 wf-section">
+          <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">Quantic Cloud Technologies Pvt. Ltd.</div>
                       <div className="text-block-65">
                         <b>Address: </b>2nd Floor, Winway World Offices, Plot No. B-7, Scheme No. PU-4 Commercial, Vijay Nagar, Indore 452010 <br/>
-                        <b>Website: </b>https://quantic.co.in<br/>
-                        <b>Product Website: </b>https://ddzone.xyz<br/>
+                        <b>Website: </b><a href="https://quantic.co.in">https://quantic.co.in</a><br/>
+                        <b>Product Website: </b><a href="https://ddzone.xyz">https://ddzone.xyz</a><br/>
                         <b>Established: </b>2019 <br/>
                         <b>Startup India Portal Certificate No. </b>DIPP59772 <br/>
                         <b>Product: </b><br/>
@@ -148,13 +194,24 @@ Coming soon: Android Native App, Voice Assistant<br/><br/>
   <li>Free payment collection with selected funding sources. (only in India)</li>
 </ul>
 <br/>
-
                       </div>
                   </div>
                   <img src="/images/621e1a7a97ac8f6ee5a55696_sitting.svg" loading="lazy" alt="" className="image-72"/>
               </div>
           </div>
 
+          <div className="section-14 wf-section">
+              <div className="v3-1-book-demo-container w-container">
+                  <div className="div-block-81">
+                      <div className="v3-book-demo-title">Yuvabikes</div>
+                      <div className="text-block-65">
+                          <b>Established: </b>2021 <br/>
+                          <b>Product: </b>Electric bicycle<br/>
+                          India first customized electric bicycle manufacturing & rental startup<br/>
+                      </div>
+                  </div>
+              </div>
+          </div>
 
       </main>
     </Layout>
