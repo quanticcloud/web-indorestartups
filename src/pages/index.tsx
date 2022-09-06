@@ -86,6 +86,29 @@ const IndexPage = () => {
           <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
+                      <div className="v3-book-demo-title">CreatEV Solutions LLP.</div>
+                      <div className="text-block-65">
+                          <b>Address: </b>E-10, Shree Krishna Kunj, Near Arvindo Hospital, Indore 453555<br/>
+                          <b>Product Website: </b><a href="http://createv.in">http://createv.in</a><br/>
+                          <b>Established: </b>2021 <br/>
+                          <b>Startup India Portal Certificate No. </b>DIPP102103 <br/>
+                          <b>Product: </b>EV charger<br/>
+                          <b>Area of expertise: </b><br/>
+                          <ul>
+                              <li>All Type of AC & DC Charger supplier with installation and maintenance services to end customers.</li>
+                          </ul>
+                      </div>
+                      <br/>
+                      <div>
+                          <img src="/images/startup-product/CreatEV.png" loading="lazy" alt="" className="image-72"/>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <div className="section-14 wf-section">
+              <div className="v3-1-book-demo-container w-container">
+                  <div className="div-block-81">
                       <div className="v3-book-demo-title">Garveish Herbaceuticals Pvt. Ltd.</div>
                       <div className="text-block-65">
                           <b>Product Website: </b><a href="www.garveishherbals.com">www.garveishherbals.com</a><br/>
@@ -102,7 +125,7 @@ const IndexPage = () => {
               </div>
           </div>
 
-          <div className="section-14 wf-section">
+          <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">GodAura Devices Pvt. Ltd.</div>
@@ -120,7 +143,7 @@ const IndexPage = () => {
               </div>
           </div>
 
-          <div className="section-15 wf-section">
+          <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">LegitAutomotive</div>
@@ -147,7 +170,7 @@ const IndexPage = () => {
               </div>
           </div>
 
-          <div className="section-14 wf-section">
+          <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">Rameshwaram H2O World Tech (OPC) Pvt. Ltd.</div>
@@ -160,7 +183,7 @@ const IndexPage = () => {
           </div>
 
 
-          <div className="section-15 wf-section">
+          <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">Quantic Cloud Technologies Pvt. Ltd.</div>
@@ -200,7 +223,7 @@ Coming soon: Android Native App, Voice Assistant<br/><br/>
               </div>
           </div>
 
-          <div className="section-14 wf-section">
+          <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">Yuvabikes</div>
@@ -208,6 +231,10 @@ Coming soon: Android Native App, Voice Assistant<br/><br/>
                           <b>Established: </b>2021 <br/>
                           <b>Product: </b>Electric bicycle<br/>
                           India first customized electric bicycle manufacturing & rental startup<br/>
+                      </div>
+                      <br/>
+                      <div>
+                          <img src="/images/startup-product/yuvabikes.jpeg" loading="lazy" alt="" className="image-72"/>
                       </div>
                   </div>
               </div>
