@@ -66,7 +66,7 @@ const IndexPage = () => {
                       <div className="text-block-65">
                           <b>Address: </b>109, Ram ratan patel angar,sec-1, Pithampur, Madhya Pradesh 454775 <br/>
                           <b>Product Website: </b><a href="http://www.shreevehicles.in">http://www.shreevehicles.in</a> <br/>
-                          <b>Established: </b>2022 <br/>
+                          <b>Established: </b>Feb 2022 <br/>
                           <b>Startup India Portal Certificate No. </b>DIPP97025 <br/>
                           <b>Product: </b>Electric Loader Two Wheeler<br/>
 
@@ -90,7 +90,7 @@ const IndexPage = () => {
                       <div className="text-block-65">
                           <b>Address: </b>E-10, Shree Krishna Kunj, Near Arvindo Hospital, Indore 453555<br/>
                           <b>Product Website: </b><a href="http://createv.in">http://createv.in</a><br/>
-                          <b>Established: </b>2021 <br/>
+                          <b>Established: </b>May 2021 <br/>
                           <b>Startup India Portal Certificate No. </b>DIPP102103 <br/>
                           <b>Product: </b>EV charger<br/>
                           <b>Area of expertise: </b><br/>
@@ -109,10 +109,25 @@ const IndexPage = () => {
           <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
+                      <div className="v3-book-demo-title">Cropikon Organics Pvt. Ltd.</div>
+                      <div className="text-block-65">
+                          <b>Address: </b>16, Suraj Market, Narmada Rd, Barwaha, 451115<br/>
+                          <b>Product Website: </b><a href="www.cropikonorganics.com">www.cropikonorganics.com</a><br/>
+                          <b>Established: </b>May 2021 <br/>
+                          <b>Startup India Portal Certificate No. </b>DIPP79492 <br/>
+                          <b>Product: </b>Agri Input Manufacturer<br/>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <div className="section-15 wf-section">
+              <div className="v3-1-book-demo-container w-container">
+                  <div className="div-block-81">
                       <div className="v3-book-demo-title">Garveish Herbaceuticals Pvt. Ltd.</div>
                       <div className="text-block-65">
                           <b>Product Website: </b><a href="www.garveishherbals.com">www.garveishherbals.com</a><br/>
-                          <b>Established: </b>2017 <br/>
+                          <b>Established: </b>May 2017 <br/>
                           <b>Startup India Portal Certificate No. </b>DIPP10775 <br/>
                           <b>Product: </b>Kesh kala Hair Oil, Garvilact<br/>
                           Herbal Ayurvedic Extracts API's and formulations<br/>
@@ -125,13 +140,13 @@ const IndexPage = () => {
               </div>
           </div>
 
-          <div className="section-15 wf-section">
+          <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">GodAura Devices Pvt. Ltd.</div>
                       <div className="text-block-65">
                           <b>Product Website: </b><a href="https://www.godaura.org">https://www.godaura.org</a> <br/>
-                          <b>Established: </b>2022 <br/>
+                          <b>Established: </b>May 2022 <br/>
                           <b>Product: </b>GodAura 'GURU'- Stress relief device<br/>
                           insomnia cure, low focus, hyper tension relief and meditation device<br/>
                           <b>Area of expertise/What we can do for our fellow founders: </b><br/>
@@ -143,14 +158,14 @@ const IndexPage = () => {
               </div>
           </div>
 
-          <div className="section-14 wf-section">
+          <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">LegitAutomotive</div>
                       <div className="text-block-65">
                         <b>Address: </b>7, Asha Nagar, Indore Madhya Pradesh, 452018 <br/>
                         <b>Product Website: </b><a href="http://www.legitautomotive.in">http://www.legitautomotive.in</a> <br/>
-                        <b>Established: </b>2021 <br/>
+                        <b>Established: </b>Nov 2021 <br/>
                         <b>Startup India Portal Certificate No. </b>DIPP105241 <br/>
                         <b>Product: </b>Dhayawat - Electric Three Wheeler Cargo <br/>
 
@@ -170,12 +185,12 @@ const IndexPage = () => {
               </div>
           </div>
 
-          <div className="section-15 wf-section">
+          <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">Rameshwaram H2O World Tech (OPC) Pvt. Ltd.</div>
                       <div className="text-block-65">
-                          <b>Established: </b>2021 <br/>
+                          <b>Established: </b>Sept 2021 <br/>
                           <b>Product: </b>Zero waste water alkaline water purifier<br/>
                       </div>
                   </div>
@@ -183,7 +198,7 @@ const IndexPage = () => {
           </div>
 
 
-          <div className="section-14 wf-section">
+          <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">Quantic Cloud Technologies Pvt. Ltd.</div>
@@ -191,7 +206,7 @@ const IndexPage = () => {
                         <b>Address: </b>2nd Floor, Winway World Offices, Plot No. B-7, Scheme No. PU-4 Commercial, Vijay Nagar, Indore 452010 <br/>
                         <b>Website: </b><a href="https://quantic.co.in">https://quantic.co.in</a><br/>
                         <b>Product Website: </b><a href="https://ddzone.xyz">https://ddzone.xyz</a><br/>
-                        <b>Established: </b>2019 <br/>
+                        <b>Established: </b>Jul 2019 <br/>
                         <b>Startup India Portal Certificate No. </b>DIPP59772 <br/>
                         <b>Product: </b><br/>
 <u>1. DD Digital (Merchant/Business super app) </u><br/>
@@ -223,12 +238,12 @@ Coming soon: Android Native App, Voice Assistant<br/><br/>
               </div>
           </div>
 
-          <div className="section-15 wf-section">
+          <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">Yuvabikes</div>
                       <div className="text-block-65">
-                          <b>Established: </b>2021 <br/>
+                          <b>Established: </b>Sept 2021 <br/>
                           <b>Product: </b>Electric bicycle<br/>
                           India first customized electric bicycle manufacturing & rental startup<br/>
                       </div>
@@ -236,6 +251,14 @@ Coming soon: Android Native App, Voice Assistant<br/><br/>
                       <div>
                           <img src="/images/startup-product/yuvabikes.jpeg" loading="lazy" alt="" className="image-72"/>
                       </div>
+                      {/*
+                      <div>
+                          <video controls autoPlay className="image-72">
+                              <source src="/images/startup-product/yuvabikes.mp4" type="video/mp4"/>
+                              Your browser does not support the video tag.
+                          </video>
+                      </div>
+                      */}
                   </div>
               </div>
           </div>
