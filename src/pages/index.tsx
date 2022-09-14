@@ -241,6 +241,24 @@ Coming soon: Android Native App, Voice Assistant<br/><br/>
           <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
+                      <div className="v3-book-demo-title">Techy Mau Game Studios Pvt. Ltd.</div>
+                      <div className="text-block-65">
+                          <b>Product Website: </b><a href="https://techymau.games">https://techymau.games</a><br/>
+                      </div>
+                      <br/>
+                      <div>
+                          <video controls autoPlay className="image-72">
+                              <source src="https://techymau.games/assets/images/techymau-vid_1.mp4" type="video/mp4"/>
+                              Your browser does not support the video tag.
+                          </video>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <div className="section-15 wf-section">
+              <div className="v3-1-book-demo-container w-container">
+                  <div className="div-block-81">
                       <div className="v3-book-demo-title">Yuvabikes</div>
                       <div className="text-block-65">
                           <b>Established: </b>Sept 2021 <br/>
