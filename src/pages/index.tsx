@@ -109,13 +109,11 @@ const IndexPage = () => {
           <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
-                      <div className="v3-book-demo-title">Cropikon Organics Pvt. Ltd.</div>
+                      <div className="v3-book-demo-title">Couponshupon</div>
                       <div className="text-block-65">
-                          <b>Address: </b>16, Suraj Market, Narmada Rd, Barwaha, 451115<br/>
-                          <b>Product Website: </b><a href="www.cropikonorganics.com">www.cropikonorganics.com</a><br/>
-                          <b>Established: </b>May 2021 <br/>
-                          <b>Startup India Portal Certificate No. </b>DIPP79492 <br/>
-                          <b>Product: </b>Agri Input Manufacturer<br/>
+                          <b>Product Website: </b><a href="https://www.couponshupon.in">couponshupon.in</a><br/>
+                          <b>Established: </b>Aug 2022 <br/>
+                          <b>Product: </b>Hyperlocal digital cashback platform<br/>
                       </div>
                   </div>
               </div>
@@ -124,9 +122,24 @@ const IndexPage = () => {
           <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
+                      <div className="v3-book-demo-title">Cropikon Organics Pvt. Ltd.</div>
+                      <div className="text-block-65">
+                          <b>Address: </b>16, Suraj Market, Narmada Rd, Barwaha, 451115<br/>
+                          <b>Product Website: </b><a href="http://www.cropikonorganics.com">www.cropikonorganics.com</a><br/>
+                          <b>Established: </b>May 2021 <br/>
+                          <b>Startup India Portal Certificate No. </b>DIPP79492 <br/>
+                          <b>Product: </b>Agri Input Manufacturer<br/>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <div className="section-14 wf-section">
+              <div className="v3-1-book-demo-container w-container">
+                  <div className="div-block-81">
                       <div className="v3-book-demo-title">Garveish Herbaceuticals Pvt. Ltd.</div>
                       <div className="text-block-65">
-                          <b>Product Website: </b><a href="www.garveishherbals.com">www.garveishherbals.com</a><br/>
+                          <b>Product Website: </b><a href="http://www.garveishherbals.com">www.garveishherbals.com</a><br/>
                           <b>Established: </b>May 2017 <br/>
                           <b>Startup India Portal Certificate No. </b>DIPP10775 <br/>
                           <b>Product: </b>Kesh kala Hair Oil, Garvilact<br/>
@@ -140,7 +153,7 @@ const IndexPage = () => {
               </div>
           </div>
 
-          <div className="section-14 wf-section">
+          <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">GodAura Devices Pvt. Ltd.</div>
@@ -158,7 +171,7 @@ const IndexPage = () => {
               </div>
           </div>
 
-          <div className="section-15 wf-section">
+          <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">LegitAutomotive</div>
@@ -185,6 +198,20 @@ const IndexPage = () => {
               </div>
           </div>
 
+          <div className="section-15 wf-section">
+              <div className="v3-1-book-demo-container w-container">
+                  <div className="div-block-81">
+                      <div className="v3-book-demo-title">Skyburns</div>
+                      <div className="text-block-65">
+                          <b>Product Website: </b><a href="https://skyburns.com">skyburns.com</a> <br/>
+                          <b>Established: </b>Oct 2019 <br/>
+                          <b>Product: </b>IoT based Automation<br/>
+                          Automation Solutions for Homes, Offices, Schools, and Hotels<br/>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
           <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
@@ -197,15 +224,14 @@ const IndexPage = () => {
               </div>
           </div>
 
-
           <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">Quantic Cloud Technologies Pvt. Ltd.</div>
                       <div className="text-block-65">
                         <b>Address: </b>2nd Floor, Winway World Offices, Plot No. B-7, Scheme No. PU-4 Commercial, Vijay Nagar, Indore 452010 <br/>
-                        <b>Website: </b><a href="https://quantic.co.in">https://quantic.co.in</a><br/>
-                        <b>Product Website: </b><a href="https://ddzone.xyz">https://ddzone.xyz</a><br/>
+                        <b>Website: </b><a href="https://quantic.co.in">quantic.co.in</a><br/>
+                        <b>Product Website: </b><a href="https://ddzone.xyz">ddzone.xyz</a><br/>
                         <b>Established: </b>Jul 2019 <br/>
                         <b>Startup India Portal Certificate No. </b>DIPP59772 <br/>
                         <b>Product: </b><br/>
@@ -277,6 +303,16 @@ Coming soon: Android Native App, Voice Assistant<br/><br/>
                           </video>
                       </div>
                       */}
+                  </div>
+              </div>
+          </div>
+
+          <div className="section-14 wf-section">
+              <div className="v3-1-book-demo-container w-container">
+                  <div className="div-block-81">
+                      <div className="v3-book-demo-title"></div>
+                      <div className="text-block-65">
+                      </div>
                   </div>
               </div>
           </div>
