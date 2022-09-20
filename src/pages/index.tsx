@@ -204,7 +204,7 @@ const IndexPage = () => {
                       <div className="v3-book-demo-title">One Point Five DC Pvt. Ltd.</div>
                       <div className="text-block-65">
                           <b>Product Website: </b><a href="https://onepointfivedc.in">onepointfivedc.in</a> <br/>
-                          <b>Established: </b>Sep 2022 <br/>
+                          <b>Established: </b>Jun 2022 <br/>
                           <b>Product: </b>On Demand Mobile DC Fast EV Charging using Bi-directional Mobile DC Fast EV Charger<br/>
                           On Demand Mobile DC Fast EV Charging-as-a-Service (EV CaaS) at footstep, doorstep, in city and on highways, anywhere, anytime<br/>
                           <b>Area of expertise: </b><br/>
