@@ -304,6 +304,26 @@ Coming soon: Android Native App, Voice Assistant<br/><br/>
           <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
+                      <div className="v3-book-demo-title">Uoons ecommerce Pvt. Ltd.</div>
+                      <div className="text-block-65">
+                          <b>Address: </b>171 Devi Ahilya Marg, GFL 12, Jail Road, Indore 452007<br/>
+                          <b>Company Website: </b><a href="https://uoons.com">uoons.com</a><br/>
+                          <b>Product Website: </b><a href="https://play.google.com/store/apps/details?id=com.uoons.india">Android App</a>
+                          <b>Established: </b>Apr 2022 <br/>
+                          <b>Startup India Portal Certificate No. </b>DIPP99860 <br/>
+                          <b>Product: </b>Marketplace<br/>
+                          <b>Area of expertise: </b><br/>
+                          <ul>
+                              <li>e-Commerce</li>
+                          </ul>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <div className="section-15 wf-section">
+              <div className="v3-1-book-demo-container w-container">
+                  <div className="div-block-81">
                       <div className="v3-book-demo-title">Yuvabikes</div>
                       <div className="text-block-65">
                           <b>Established: </b>Sept 2021 <br/>
@@ -331,7 +351,7 @@ Coming soon: Android Native App, Voice Assistant<br/><br/>
               </div>
           </div>
 
-          <div className="section-15 wf-section">
+          <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title"></div>
