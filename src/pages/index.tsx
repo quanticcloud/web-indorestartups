@@ -286,6 +286,24 @@ Coming soon: Android Native App, Voice Assistant<br/><br/>
           <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
+                      <div className="v3-book-demo-title">Tailorsaab</div>
+                      <div className="text-block-65">
+                          <b>Website: </b><a href="http://www.tailorsaab.com">tailorsaab.com</a><br/>
+                          <b>Product Website: </b><a href="https://www.facebook.com/tailorsab">facebook.com/tailorsab</a><br/>
+                          <b>Established: </b>Dec 2018 <br/>
+                          <b>Product: </b>All Sort of Fashion Stitching work for ladies wear, salwar suits,lenga,evening gaun,kurties,daily wear ,party wear ,comfort wear,formal office wear, uniforms, etc.<br/>
+                          <b>Area of expertise: </b><br/>
+                          <ul>
+                              <li>Clothes sewing for Female</li>
+                          </ul>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <div className="section-14 wf-section">
+              <div className="v3-1-book-demo-container w-container">
+                  <div className="div-block-81">
                       <div className="v3-book-demo-title">Techy Mau Game Studios Pvt. Ltd.</div>
                       <div className="text-block-65">
                           <b>Product Website: </b><a href="https://techymau.games">https://techymau.games</a><br/>
@@ -301,14 +319,14 @@ Coming soon: Android Native App, Voice Assistant<br/><br/>
               </div>
           </div>
 
-          <div className="section-14 wf-section">
+          <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">Uoons ecommerce Pvt. Ltd.</div>
                       <div className="text-block-65">
                           <b>Address: </b>171 Devi Ahilya Marg, GFL 12, Jail Road, Indore 452007<br/>
                           <b>Company Website: </b><a href="https://uoons.com">uoons.com</a><br/>
-                          <b>Product Website: </b><a href="https://play.google.com/store/apps/details?id=com.uoons.india">Android App</a>
+                          <b>Product Website: </b><a href="https://play.google.com/store/apps/details?id=com.uoons.india">Android App</a> <br/>
                           <b>Established: </b>Apr 2022 <br/>
                           <b>Startup India Portal Certificate No. </b>DIPP99860 <br/>
                           <b>Product: </b>Marketplace<br/>
@@ -321,7 +339,7 @@ Coming soon: Android Native App, Voice Assistant<br/><br/>
               </div>
           </div>
 
-          <div className="section-15 wf-section">
+          <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">Yuvabikes</div>
@@ -351,7 +369,7 @@ Coming soon: Android Native App, Voice Assistant<br/><br/>
               </div>
           </div>
 
-          <div className="section-14 wf-section">
+          <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title"></div>
