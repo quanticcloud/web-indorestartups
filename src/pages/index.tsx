@@ -86,10 +86,28 @@ const IndexPage = () => {
           <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
+                      <div className="v3-book-demo-title">Cheflab</div>
+                      <div className="text-block-65">
+                          <b>Product Website: </b><a href="https://cheflab.in">cheflab.in</a><br/>
+                          <b>Established: </b>July 2022 <br/>
+                          <b>Startup India Portal Certificate No. </b>DIPP108311<br/>
+                          <b>Product: </b>Cheflab<br/>
+                          <b>Area of expertise: </b><br/>
+                          <ul>
+                              <li>Door-to-Door Delivery</li>
+                          </ul>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <div className="section-14 wf-section">
+              <div className="v3-1-book-demo-container w-container">
+                  <div className="div-block-81">
                       <div className="v3-book-demo-title">CreatEV Solutions LLP.</div>
                       <div className="text-block-65">
                           <b>Address: </b>E-10, Shree Krishna Kunj, Near Arvindo Hospital, Indore 453555<br/>
-                          <b>Product Website: </b><a href="http://createv.in">http://createv.in</a><br/>
+                          <b>Product Website: </b><a href="http://createv.in">createv.in</a><br/>
                           <b>Established: </b>May 2021 <br/>
                           <b>Startup India Portal Certificate No. </b>DIPP102103 <br/>
                           <b>Product: </b>EV charger<br/>
@@ -106,7 +124,7 @@ const IndexPage = () => {
               </div>
           </div>
 
-          <div className="section-14 wf-section">
+          <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">Couponshupon</div>
@@ -119,7 +137,7 @@ const IndexPage = () => {
               </div>
           </div>
 
-          <div className="section-15 wf-section">
+          <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">Cropikon Organics Pvt. Ltd.</div>
@@ -134,7 +152,7 @@ const IndexPage = () => {
               </div>
           </div>
 
-          <div className="section-14 wf-section">
+          <div className="section-15 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">Garveish Herbaceuticals Pvt. Ltd.</div>
@@ -153,18 +171,35 @@ const IndexPage = () => {
               </div>
           </div>
 
-          <div className="section-15 wf-section">
+          <div className="section-14 wf-section">
               <div className="v3-1-book-demo-container w-container">
                   <div className="div-block-81">
                       <div className="v3-book-demo-title">GodAura Devices Pvt. Ltd.</div>
                       <div className="text-block-65">
-                          <b>Product Website: </b><a href="https://www.godaura.org">https://www.godaura.org</a> <br/>
+                          <b>Product Website: </b><a href="https://www.godaura.org">godaura.org</a> <br/>
                           <b>Established: </b>May 2022 <br/>
                           <b>Product: </b>GodAura 'GURU'- Stress relief device<br/>
                           insomnia cure, low focus, hyper tension relief and meditation device<br/>
                           <b>Area of expertise/What we can do for our fellow founders: </b><br/>
                           <ul>
                               <li>Brain, health, mental health, reiki</li>
+                          </ul>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <div className="section-15 wf-section">
+              <div className="v3-1-book-demo-container w-container">
+                  <div className="div-block-81">
+                      <div className="v3-book-demo-title">GoWow</div>
+                      <div className="text-block-65">
+                          <b>Product Website: </b><a href="http://www.gowow.co.in">gowow.co.in</a> <br/>
+                          <b>Established: </b>Jan 2022 <br/>
+                          <b>Product: </b>GoWow<br/>
+                          <b>Area of expertise/What we can do for our fellow founders: </b><br/>
+                          <ul>
+                              <li>Social impact</li>
                           </ul>
                       </div>
                   </div>
